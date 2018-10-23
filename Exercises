@@ -1,0 +1,12 @@
+#1
+Letters = {"A":1, "B":2, "C":3, "D":4, "E":5}
+
+def test(f):
+    print(f["A"])
+test(Letters)
+
+#2
+#Tuple is a generealization of a pair
+
+#3
+#Tuple is a kind of a pair
